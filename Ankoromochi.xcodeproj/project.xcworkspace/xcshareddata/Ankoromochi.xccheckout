@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>275BA9E6-6F48-4469-9289-65EB21C0D176</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Ankoromochi</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D1E26F2479CBD1A295B00A49D02905C1B2A70468</key>
+		<string>https://github.com/hamatani63/Ankoromochi.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Ankoromochi.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D1E26F2479CBD1A295B00A49D02905C1B2A70468</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/hamatani63/Ankoromochi.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D1E26F2479CBD1A295B00A49D02905C1B2A70468</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D1E26F2479CBD1A295B00A49D02905C1B2A70468</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Ankoromochi</string>
+		</dict>
+	</array>
+</dict>
+</plist>
